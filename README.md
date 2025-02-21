@@ -10,18 +10,6 @@
 ## 🛠️ Technologies Used
 - **Build**: Python
 
-## 📦 Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/Giovannorick/Park-a-lot.git
-   cd Park-a-lot
-   ```
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
 ## 📜 License
 This project is licensed under the MIT License.
 
